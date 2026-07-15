@@ -38,7 +38,7 @@ and anyone learning how mainframe attack surfaces really work.
 <div align="center">
 
 <!-- Replace with real screenshots before publishing -->
-<em>[ screenshot: /docs/images/standard.png]&nbsp;&nbsp;&nbsp;[ screenshot: recon menu ]&nbsp;&nbsp;&nbsp;[ screenshot: DB2 / DRDA client ]</em>
+<em>[ screenshot: docs/images/standard.png]&nbsp;&nbsp;&nbsp;[ screenshot: recon menu ]&nbsp;&nbsp;&nbsp;[ screenshot: DB2 / DRDA client ]</em>
 
 </div>
 
